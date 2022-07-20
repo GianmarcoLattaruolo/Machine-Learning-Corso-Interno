@@ -15,3 +15,4 @@ THEORY:
 - [Last Lecture] Clustering (K-means), Autoencoders(encoder, decoder,DAE), GANs(genetor, discriminator)
 
 COLAB NOTEBOOKS
+- KNN tutto definito a mano
