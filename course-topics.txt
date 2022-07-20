@@ -1,0 +1,17 @@
+THEORY:
+- Supervised and Unsupervised learninf defs
+- General framewokr, expectred loss/risk
+- Undefitting/Overfitting
+- K-NN (also with Parzen window)
+- Cross validation: K-folds, Hold out
+- The course of dimensionality
+- Regularizations
+- Logistic/Hinge Loss function
+- Feature Maps, Kernels
+- Genral framework for Neural Network: activation function,cross entgropy,softmax unit ecc
+- Regularization methods: early stopping, bagging, drop out
+- CNN: spare interaction,parameter sharing, equivariant representation, pooling,padding
+- From recurrent NN to Transformers(cenni): RNN,self attention, Encoder, Decoder, Transformers, embedding, queries, keys,values
+- [Last Lecture] Clustering (K-means), Autoencoders(encoder, decoder,DAE), GANs(genetor, discriminator)
+
+COLAB NOTEBOOKS
